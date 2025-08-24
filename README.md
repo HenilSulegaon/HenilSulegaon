@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Electronics and Communication Engineering student passionate about RTL design and verification. I have strong foundation in Digital Design , Verilog and VLSI.
+I am an Electronics and Communication Engineering student, passionate about RTL design and verification. I have a strong foundation in Digital Design, Verilog, and VLSI.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henil-sulegaon-753092354/)
